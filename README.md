@@ -1,4 +1,4 @@
-# EDA_on_youtube_data
+# Youtube_Dislike_Analysis
 Exploratory Data Analysis on YouTube data
 
 The link for the dataset has been shared: https://drive.google.com/file/d/1X9W5FyyjdpfKo-1cr1JGvRNjIf5T7OTW/view?usp=sharing
